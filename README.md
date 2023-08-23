@@ -5,4 +5,5 @@ Caso de estudo desenvolvido de acordo com o projeto do site https://sujeitoprogr
 - HTML
 - SCSS
 
-# Link para acessar a página
+# Link de acesso
+https://projeto-barbearia-omega.vercel.app/
